@@ -26,7 +26,7 @@ function LoginPage() {
           ,
           {' '}
           <br />
-          Through Open Space App New.
+          Through Open Space App.
         </h2>
 
         <LoginInput login={onLogin} />
